@@ -12,8 +12,11 @@ code {
     monospace;
 }
 
-.row,
 .list {
+  height: 600px;
+}
+
+.row {
   width: 100%;
   max-width: 300px;
   margin-left: auto;
